@@ -1,0 +1,25 @@
+{
+    "makanan-populer": [
+        {
+            "id": 1,
+            "code": "M-01",
+            "name": "Mie Ayam",
+            "price": 12000,
+            "image": "assets/images/mie-ayam.jpg"
+        },
+        {
+            "id": 2,
+            "code": "M-02",
+            "name": "Nasi Goreng Telur",
+            "price": 15000,
+            "image": "assets/images/nasi-goreng-telur.jpg"
+        },
+        {
+            "id": 3,
+            "code": "M-03",
+            "name": "Nasi Ayam Geprek",
+            "price": 17000,
+            "image": "assets/images/nasi-ayam-geprek.jpeg"
+        }
+    ]
+}

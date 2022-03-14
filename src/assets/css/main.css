@@ -1,0 +1,28 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.btn--primary {
+    background-color: #4eb883;
+    border-color: none;
+}
+
+.badge--primary {
+    background-color: #4eb883;
+}
+
+.object-fit-img .card-img-top {
+    object-fit: cover;
+}
+
+.card-item-makanan {
+    border-radius: 15px;
+}
+
+.card-item-makanan .card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
