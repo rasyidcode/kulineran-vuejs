@@ -20,13 +20,13 @@
 
       <div class="row mb-3 mt-4">
         <div class="col-md-4 mt-d" v-for="makanan in makanan_populer" :key="makanan.id">
-          <ItemMakanan :makanan="makanan" />
+          <item-makanan :makanan="makanan" />
         </div>
       </div>
     </div>
   </div>
 </template>
-
+  
 <script>
 // @ is an alias to /src
 import Navbar from "@/components/Navbar.vue";

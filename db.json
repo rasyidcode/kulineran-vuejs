@@ -21,5 +21,69 @@
             "price": 17000,
             "image": "assets/images/nasi-ayam-geprek.jpeg"
         }
+    ],
+    "list-makanan": [
+        {
+            "id": 1,
+            "code": "M-01",
+            "name": "Mie Ayam",
+            "price": 12000000,
+            "is_ready": true,
+            "image": "assets/images/mie-ayam.jpg"
+        },
+        {
+            "id": 2,
+            "code": "M-02",
+            "name": "Nasi Goreng Telur",
+            "price": 15000,
+            "image": "assets/images/nasi-goreng-telur.jpg"
+        },
+        {
+            "id": 3,
+            "code": "M-03",
+            "name": "Nasi Ayam Geprek",
+            "price": 17000,
+            "image": "assets/images/nasi-ayam-geprek.jpeg"
+        },
+        {
+            "id": 4,
+            "code": "M-04",
+            "name": "Coto Makassar",
+            "price": 20000,
+            "is_ready": true,
+            "image": "assets/images/coto-makassar.jpg"
+        },
+        {
+            "id": 5,
+            "code": "M-05",
+            "name": "Bubur Manado",
+            "price": 15000,
+            "is_ready": true,
+            "image": "assets/images/bubur-manado.jpg"
+        },
+        {
+            "id": 6,
+            "code": "M-06",
+            "name": "Gudeg",
+            "price": 12500,
+            "is_ready": true,
+            "image": "assets/images/gudeg.jpg"
+        },
+        {
+            "id": 7,
+            "code": "M-07",
+            "name": "Nasi Rames",
+            "price": 8000,
+            "is_ready": true,
+            "image": "assets/images/nasi-rames.jpg"
+        },
+        {
+            "id": 8,
+            "code": "M-08",
+            "name": "Soto Betawi",
+            "price": 13500,
+            "is_ready": true,
+            "image": "assets/images/soto-betawi.webp"
+        }
     ]
 }
